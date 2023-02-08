@@ -1,0 +1,24 @@
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.AssemblyReference.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\bin\Debug\lab_inheritance.exe.config
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\bin\Debug\lab_inheritance.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\bin\Debug\lab_inheritance.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\bin\Debug\lab_inheritance.exe.config
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\bin\Debug\lab_inheritance.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\bin\Debug\lab_inheritance.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.AssemblyReference.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab_inheritance\lab_inheritance\obj\Debug\lab_inheritance.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.AssemblyReference.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\obj\Debug\lab_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\obj\Debug\lab_inheritance.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\obj\Debug\lab_inheritance.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\bin\Debug\lab_inheritance.exe.config
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\bin\Debug\lab_inheritance.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\lab_2\lab2_oops_inheritance\lab_inheritance\bin\Debug\lab_inheritance.pdb
